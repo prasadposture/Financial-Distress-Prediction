@@ -14,17 +14,17 @@ Financial distress can be a major challenge for individuals and families, and it
 3. Exploratory data analysis & Data visualization
 4. Normalizing the attributes
 5. Data preprocessing
-   a. Identifying inputs and target column
-   b. Imputing numeric values
-   c. Scaling numeric features
+   a. Identifying inputs and target column<br>
+   b. Imputing numeric values<br>
+   c. Scaling numeric features<br>
 6. Predictive modeling using `DecisionTreeClassifier`
-   a. Splitting the dataset into training and validation data
-   b. Training the model
-   c. Evaluating the model
-   d. Visualization of tree
-   e. Feature importance
-   f. Hyper-parameter tuning
-   g. Making predictions with best parameter values
+   a. Splitting the dataset into training and validation data<br>
+   b. Training the model<br>
+   c. Evaluating the model<br>
+   d. Visualization of tree<br>
+   e. Feature importance<br>
+   f. Hyper-parameter tuning<br>
+   g. Making predictions with best parameter values<br>
 7. Repeating the same steps for predictive modeling but with `RandomForestClassifier`
 8. Choosing the best model and making predictions on test data for submission
 9. Saving the trained and tuned model for future use
