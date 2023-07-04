@@ -5,7 +5,7 @@ Financial distress can be a major challenge for individuals and families, and it
 
 ### Important Links
 1. [Data Preparation and Modeling](https://github.com/prasadposture/Financial-Distress-Prediction/blob/main/Financial%20Distress%20Prediction.ipynb)
-2. [WebApp](https://prasadposture-financial-distress-prediction-fdp-7abgw6.streamlit.app/)
+2. [WebApp](https://finanancial-distress-prediction.streamlit.app/)
 3. [Source Code](https://github.com/prasadposture/Financial-Distress-Prediction/blob/main/FDP.py)
 
 ### Workflow
